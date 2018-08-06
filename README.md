@@ -56,6 +56,7 @@ ___
 
 ## Resources
 
+[an example](https://github.com/elewa-academy/block-scope-let-vs-var#index)
 
 * Design Thinking:
   * [Design is an iterative Process](https://dschool-old.stanford.edu/sandbox/groups/k12/wiki/c739e/attachments/ade8c/An_Intro_to_DT_Slides_07_10_09.pdf?sessionID=8cbdfc6129ceb041dbad2247ffc9d0112fd0ebce)
